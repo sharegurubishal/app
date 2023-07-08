@@ -1,0 +1,36 @@
+.calculator-main{
+    height: 80vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.calculator{
+    height: 400px;
+    width: 340px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.calculator .choose{
+    height: 10%;
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.calculator .ipoornot{
+    height: 10%;
+    width: 80%;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+}
+.calculator .result{
+    height: 230px;
+    width: 90%;
+    background-color: aqua;
+}

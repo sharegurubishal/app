@@ -1,0 +1,153 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    user-select: none;
+    zoom: none;
+}
+img{
+    height: 70%;
+}
+h2{
+    color: rgb(103, 110, 9);
+}
+nav{
+    height: 10vh;
+    width: 100%;
+    background-color: rgb(4, 4, 48);
+    z-index: 99999;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    flex-direction: column;
+}
+nav p{
+    font-size: 10px;
+}
+.space{
+    height: 10vh;
+    width: 100%;
+   
+}
+.main{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.main .nepse-index{
+    height: 100px;
+    width: 360px;
+    background-color: aqua;
+    position: relative;
+    overflow: hidden;
+}
+.main .nepse-index iframe{
+    position: absolute;
+    height: 2000px;
+    width: 2000px;
+    left: -331px;
+    top: -445px;
+}
+.main .nepse-index .space-nepse-index{
+    height: 100px;
+    width: 370px;
+    background-color: rgba(0, 0, 0, 0.053);
+    position: absolute;
+}
+.main .nepse-chart{
+    height: 300px;
+    width: 370px;
+    background-color: black;
+    position: relative;
+    overflow: hidden;
+}
+.main .nepse-chart iframe{
+    position: absolute;
+    height: 2000px;
+    width: 2000px;
+    left: -793px;
+    top: -640px;
+
+}
+.main .nepse-chart .space-nepse-chart{
+    position: absolute;
+    height: 300px;
+    width: 370px;
+}
+.main .upcommingipo{
+    height: 300px;
+    width: 370px;
+    background-color: aquamarine;
+    position: relative;
+    overflow: hidden;
+}
+.main .upcommingipo iframe{
+    height: 2000px;
+    width: 370px;
+    position: absolute;
+    top: -365px;
+}
+
+
+
+
+
+/*Footer Starts*/
+.footer{
+    position: fixed;
+    bottom: 0.01%;
+    height: 10vh;
+    width: 100%;
+    background-color: rgb(57, 5, 5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: x-small;
+}
+.footer .home{
+    height: 9vh;
+    width: 20%;
+    background-color: rgb(164, 139, 139);
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.footer .ipo-results{
+    height: 9vh;
+    width: 20%;
+    background-color: rgb(164, 139, 139);
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.footer .calculator{
+    height: 9vh;
+    width: 20%;
+    background-color: rgb(164, 139, 139);
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.footer .support{
+    height: 9vh;
+    width: 20%;
+    background-color: rgb(164, 139, 139);
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.footer .space-footer{
+    width: 5%;
+}
+/*Footer Ends*/

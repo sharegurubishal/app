@@ -1,0 +1,17 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>AllotmentResult</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" style-src https://*.fontawesome.com 'self' 'unsafe-inline' rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+  
+<link rel="stylesheet" href="https://iporesult.cdsc.com.np/styles.033d748ba3d778057693.css"></head>
+<body>
+  <app-root></app-root>
+
+<script src="https://iporesult.cdsc.com.np/runtime-es2015.de167409752632a3a9ae.js" type="module"></script><script src="https://iporesult.cdsc.com.np/runtime-es5.de167409752632a3a9ae.js" nomodule defer></script><script src="https://iporesult.cdsc.com.np/polyfills-es5.7ffa9dfd28fda61abf9c.js" nomodule defer></script><script src="https://iporesult.cdsc.com.np/polyfills-es2015.366bcebab23463fb1570.js" type="module"></script><script src="https://iporesult.cdsc.com.np/main-es2015.fd50b283592fc0e04be2.js" type="module"></script><script src="https://iporesult.cdsc.com.np/main-es5.fd50b283592fc0e04be2.js" nomodule defer></script></body>
+</html>
